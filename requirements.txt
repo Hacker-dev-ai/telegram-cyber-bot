@@ -1,2 +1,8 @@
-pyTelegramBotAPI
+python-telegram-bot==20.0
 requests
+sqlite3
+pymongo
+dnspython
+stripe
+paypalrestsdk
+
