@@ -1,1 +1,2 @@
-7520128825:AAF_USSJGwqBHOrtRPlaoQtwvG6BxZzjeII
+pyTelegramBotAPI
+requests
